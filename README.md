@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="AURELIS AI — project visual" width="100%">
+
+</div>
+
+---
+
 # AURELIS AI
 
 > **Intelligence, refined.**
