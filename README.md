@@ -8,9 +8,9 @@
 
 <!-- MOJEALTEREGO:PROJECT-STATUS:START -->
 > [!IMPORTANT]
-> **MojeAlterego project status:** `BETA`  
+> **MojeAlterego project status:** `PROTOTYPE`  
 > **Domain:** AI / Agents / Web  
-> **Verification:** Substantial product foundation and quality gates are documented; production readiness still depends on passing deployment-specific verification.  
+> **Verification:** Substantial product foundation is present, but the repository's AURELIS Quality workflow is currently failing on existing Ultracite diagnostics; promotion to BETA requires a green quality gate.  
 > **Status policy:** [MojeAlterego project status model](https://github.com/mojealterego/mojealterego/blob/main/docs/PROJECT-STATUS.md)
 <!-- MOJEALTEREGO:PROJECT-STATUS:END -->
 
